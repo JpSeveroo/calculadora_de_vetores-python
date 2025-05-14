@@ -11,12 +11,10 @@ Criar uma ferramenta que auxilie estudantes e entusiastas a realizar operações
 A calculadora é capaz de executar as seguintes operações vetoriais:
 
 - Soma e subtração de vetores
-- Produto escalar
-- Produto vetorial (para vetores em 3D)
-- Cálculo do módulo (norma) de um vetor
-- Verificação de ortogonalidade
 - Multiplicação por escalar
-- Cálculo do ângulo entre dois vetores
+- Produto interno
+- Produto vetorial
+- Produto misto
 
 ## 🧑‍💻 Tecnologias Utilizadas
 
