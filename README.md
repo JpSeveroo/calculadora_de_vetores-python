@@ -1,2 +1,30 @@
-# Projetos-python
- Repositório destinado ao armazenamento de projetos realizados em python durante  a minha evolução como programador.
+# Calculadora de Operações com Vetores
+
+Este projeto foi desenvolvido como parte da disciplina de Geometria Analítica do curso de Engenharia de Software da Universidade de Pernambuco (UPE). O objetivo principal é aplicar, na prática, os conceitos teóricos de vetores por meio de uma calculadora interativa que funciona no terminal.
+
+## 💡 Objetivo
+
+Criar uma ferramenta que auxilie estudantes e entusiastas a realizar operações fundamentais com vetores de forma simples, rápida e precisa.
+
+## ⚙️ Funcionalidades
+
+A calculadora é capaz de executar as seguintes operações vetoriais:
+
+- Soma e subtração de vetores
+- Produto escalar
+- Produto vetorial (para vetores em 3D)
+- Cálculo do módulo (norma) de um vetor
+- Verificação de ortogonalidade
+- Multiplicação por escalar
+- Cálculo do ângulo entre dois vetores
+
+## 🧑‍💻 Tecnologias Utilizadas
+
+- **Python 3**: linguagem principal de desenvolvimento
+- **VS Code**: ambiente de desenvolvimento utilizado
+- Interface em linha de comando (CLI), com menus simples e organizados
+
+## 📁 Estrutura do Projeto
+
+O projeto é composto por arquivos modulares que separam as funções matemáticas principais, a interface de usuário no terminal e os testes de verificação.
+
